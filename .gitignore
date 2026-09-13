@@ -1,0 +1,9 @@
+# 体积过大的二进制模型资产，改由 Release 发布
+assets/models/*.qhm
+assets/models/*.onnx
+
+# 系统与编辑器
+Thumbs.db
+desktop.ini
+.DS_Store
+*.swp

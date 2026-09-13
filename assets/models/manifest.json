@@ -1,0 +1,18 @@
+{
+  "format": "QH-AES256-GCM-CHUNKED-2",
+  "opset": 17,
+  "fourPlayer": {
+    "file": "mortal_4p.qhm",
+    "inputChannels": 1012,
+    "actionSpace": 46,
+    "bundled": true,
+    "bytes": 95289149
+  },
+  "threePlayer": {
+    "file": "mortal_3p.qhm",
+    "inputChannels": 775,
+    "actionSpace": 44,
+    "bundled": true,
+    "bytes": 91315077
+  }
+}

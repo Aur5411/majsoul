@@ -1,0 +1,141 @@
+Signature-Version: 1.0
+Created-By: Android Gradle 8.0.2
+SHA-256-Digest-Manifest: oOcM1+YVW7pFI+SANMQIm4X7sZVLwSqvDgLci+UbGFA=
+X-Android-APK-Signed: 2,3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: 1k6iDEDCsauLLmY4VXXsyCCJjsfvAs78KS+cSnS7blE=
+
+Name: META-INF/androidx.annotation_annotation-experimental.version
+SHA-256-Digest: EzM0+E5iHHuwy1qvYlX203WLBvPdKME6UghaYpvIwfw=
+
+Name: META-INF/androidx.core_core.version
+SHA-256-Digest: tn3OODZcad8MYC1OVUb8S2Q5CcdPF9B0LA/UBFQ/T2I=
+
+Name: META-INF/androidx.lifecycle_lifecycle-runtime.version
+SHA-256-Digest: II02oWoXmRCqGREaCRbQzwdo+9TYjpfUAecgWlOX998=
+
+Name: META-INF/androidx.versionedparcelable_versionedparcelable.versio
+ n
+SHA-256-Digest: M3yXP5SOgF62Mf9iU1KYIc7Zyw+mwONp/Y7TVhsmiCQ=
+
+Name: META-INF/androidx.webkit_webkit.version
+SHA-256-Digest: Ka+JoEEUQXJpDyq/O428YEm223E/Cu1/SqiNFHxEH1I=
+
+Name: META-INF/com/android/build/gradle/app-metadata.properties
+SHA-256-Digest: tMpL0bvzS/ABhU8xReE0obMyu5/Qfaqwl1NfnqIjcb0=
+
+Name: META-INF/version-control-info.textproto
+SHA-256-Digest: W0W/bfGekbREycocAorljAgxffFsF+d3wVsFfvjUADQ=
+
+Name: META-INF/versions/9/OSGI-INF/MANIFEST.MF
+SHA-256-Digest: 61Owk6o+Zz8kLb8/j3wagTj1Q0aSKQrU6Hs6PZ46nO4=
+
+Name: assets/liqi/liqi.desc
+SHA-256-Digest: 99Da/Gm3HNbzf22RLe1GLq045tXbHQKHWQ4khsp2A1M=
+
+Name: assets/majsoulmax/max_data.yaml
+SHA-256-Digest: 0ThatXd5Q5mY1ETW5Oh3QNSBYR09RQfvU6IgXgaKI9c=
+
+Name: assets/models/manifest.json
+SHA-256-Digest: sdXdQfiImLwz3gR9qSyw6kJZckjgPBIBQyEwKAp7cq0=
+
+Name: assets/models/mortal_3p.qhm
+SHA-256-Digest: p7ghHVrbW11NIRCQAHXxs810fcZuv5Qz46cFqJWHcxU=
+
+Name: assets/models/mortal_4p.qhm
+SHA-256-Digest: RzvxmwXjsJPHETG9XVoMluqjOmCkpbW+hGkMM3uU514=
+
+Name: assets/web/bridge.js
+SHA-256-Digest: nGXBcciXeQqQoZbYzmw6HLIe+375exRrs8E0Xs8SoRs=
+
+Name: assets/web/cat-hud.js
+SHA-256-Digest: 6vDp97EGeCNFroWuYJEJSXElAL9R97r0P+y9XqNbp5o=
+
+Name: classes.dex
+SHA-256-Digest: vdeBH2RDRCh7mo+gm9km0KtMIjE8THkqnP2BGBBhinI=
+
+Name: classes_smali.zip
+SHA-256-Digest: O8AzVd17PWa9GOx4Ir0fX7WCrrmwzpLG9MNYq5a2M9s=
+
+Name: kotlin/annotation/annotation.kotlin_builtins
+SHA-256-Digest: ZGvoYrg+5vY8equl957iU5yOHLkUYGpE+qi5Nul8wxo=
+
+Name: kotlin/collections/collections.kotlin_builtins
+SHA-256-Digest: 1iMmx1tty2PvXJQcPgsGL62IAMi+sCsJWKQ7OjbiC9Q=
+
+Name: kotlin/concurrent/atomics/atomics.kotlin_builtins
+SHA-256-Digest: 9br+F/yko0WxXg9m2v2mqyx5jicv5j9B2dmogzCfle0=
+
+Name: kotlin/coroutines/coroutines.kotlin_builtins
+SHA-256-Digest: nPTP8Gxvf6S4p6d8sm9SkCsciBbGBPbYiuzBBo1a+50=
+
+Name: kotlin/internal/internal.kotlin_builtins
+SHA-256-Digest: 65/18lmVKXVO4LS/ljzETGosmWQVt6hObNyIgk/Q2D4=
+
+Name: kotlin/kotlin.kotlin_builtins
+SHA-256-Digest: tR2yVvvdP2IitNuir82++v2j6fTmrcYozejAmSqA0GA=
+
+Name: kotlin/ranges/ranges.kotlin_builtins
+SHA-256-Digest: 1zm9JbOslhDRuiTIjmDQqRPNsTXUZZxwZsyJygIb7pI=
+
+Name: kotlin/reflect/reflect.kotlin_builtins
+SHA-256-Digest: APJUen0WBaNwlG3KoRlFT6Gj5rBUCXu99j6NjJnCAsw=
+
+Name: lib/arm64-v8a/libonnxruntime.so
+SHA-256-Digest: sOcgFjjxa3OdQKXhlFkvEX2aBUlhfAD5ekR+s/CMphQ=
+
+Name: lib/arm64-v8a/libonnxruntime4j_jni.so
+SHA-256-Digest: r1qtDZdz+hSawEsCAQOR71AXzH28MRrtur/8wjos9pc=
+
+Name: lib/arm64-v8a/libqiuhui_mortal_state.so
+SHA-256-Digest: MC21NrV3Zcym852F3DTstCoWlX7ZXpPsAW0ijNjP9oE=
+
+Name: lib/arm64-v8a/libqiuhui_mortal_state3p.so
+SHA-256-Digest: 60P2dhcWqOyQhixjs+dzCe3wDDZXI56ndm3RnZxNKXc=
+
+Name: res/0K.xml
+SHA-256-Digest: uvNGa/5s8gLChAwzLmYeFvHcy0vUxZw+PGNCafsser0=
+
+Name: res/8C.xml
+SHA-256-Digest: Ss/azGRIjABdcMwt+TvO/r118hE6NeoeSydez1NaAC4=
+
+Name: res/8G.xml
+SHA-256-Digest: h2gscC4QcN1fLbC6ghob1ktmm84gPlUitLgVpZlloUM=
+
+Name: res/9w.png
+SHA-256-Digest: wGWh67RWWGASIBKrv/zmjY8gcY+dhgxMuSMcbQ+yXoo=
+
+Name: res/BW.xml
+SHA-256-Digest: YQIv3P0FYp1CDww3ub0X81RC9xoi37PCF3gwuAYe53E=
+
+Name: res/Em.png
+SHA-256-Digest: azi8ZsGLq0lVJHC2jo5jgBgowtY1OhMcetK9XMXK5Uc=
+
+Name: res/FS.png
+SHA-256-Digest: z/3VGk4mIma5IIhCGHT+sn2wOwL/f9xTQ0nZUoO58NQ=
+
+Name: res/Lf.png
+SHA-256-Digest: HQnXc0MLx3HTwFTDXzQyaMPpKu+OxoFnxskeYSCpN6E=
+
+Name: res/QZ.png
+SHA-256-Digest: Uq1apXsr90jUQR/RyFAgWLSELX4zJWV9+U4fmBxrsUs=
+
+Name: res/RJ.png
+SHA-256-Digest: uttQ0RKXc2t6kouaNzx6uXaXnj4CkaXA7o1qlOG8mTI=
+
+Name: res/as.png
+SHA-256-Digest: DDvVdQgqk1h1FMTlNQ42S8uMyltwZdg8Va8Z9yTnVas=
+
+Name: res/o-.png
+SHA-256-Digest: UFEzUeQZkp5WOB3SLIOOksSD+2Cxv0a6F+rkF1tPr6M=
+
+Name: res/yn.png
+SHA-256-Digest: AFMWH8ezyLlgdPUTST4cJEEk7sOdEAL8+IJ31dzOGM4=
+
+Name: res/zr.png
+SHA-256-Digest: qxJNg7yKm5qIMFvP/34yfR/bC67W6BJD/TmKBytYdwM=
+
+Name: resources.arsc
+SHA-256-Digest: ZxZ12diDhf7MNHxb1PGOmftrh8QOsRBu8ZN41mcKc+g=
+
