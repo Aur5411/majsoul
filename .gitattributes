@@ -1,0 +1,12 @@
+# 保持内容逐字节原样：仓库内的资产的 SHA-256 会被程序做完整性校验，
+# 任何换行符自动转换都会导致哈希不匹配。
+* -text
+
+# 明确标记二进制
+*.so   binary
+*.dex  binary
+*.apk  binary
+*.qhm  binary
+*.arsc binary
+*.png  binary
+*.zip  binary
