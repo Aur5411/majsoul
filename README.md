@@ -45,7 +45,3 @@
 
 - `majsoul-v9.9.9.apk` —— 安装包
 - `mortal_4p.qhm` / `mortal_3p.qhm` —— 四麻 / 三麻模型（需放入 APK 的 `assets/models/` 目录才能加载）
-
-## 技术分析
-
-技术架构、关键类说明、模型规格、权限与安全机制、仓库结构等实现细节，见 [ANALYSIS.md](ANALYSIS.md)。
