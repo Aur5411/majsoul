@@ -41,7 +41,7 @@
 
 ## 下载
 
-安装包与 Mortal 模型文件在 [Releases](https://github.com/Aur5411/majsoul/releases) 页面：
+安装包与 Mortal 模型文件在 [Releases](https://github.com/Aur5411/Majsoul-for-Android/releases) 页面：
 
 - `majsoul-v9.9.9.apk` —— 安装包
 - `mortal_4p.qhm` / `mortal_3p.qhm` —— 四麻 / 三麻模型（需放入 APK 的 `assets/models/` 目录才能加载）
